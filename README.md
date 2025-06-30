@@ -1,4 +1,4 @@
-# PromptlyAI 🤖
+# CtrlEnter (More than Cheating)
 
 A powerful, desktop AI assistant built with React and Electron that provides intelligent responses with web search capabilities and screen capture functionality.
 

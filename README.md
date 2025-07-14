@@ -1,4 +1,4 @@
-# CtrlEnter (More than Cheating)
+# CtrlEnter (Quick answers on your screen)
 
 A powerful, desktop AI assistant built with React and Electron that provides intelligent responses with web search capabilities and screen capture functionality.
 
